@@ -41,3 +41,4 @@ See `test_cases.md` for a detailed manual test matrix. The question order change
 - `scores.txt` is plain text and not protected against manual editing.
 - Pseudorandom shuffling is suitable for a classroom quiz, not secure exams.
 
+Screenshot 2026-11-23 195109.png
